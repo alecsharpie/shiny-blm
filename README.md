@@ -6,3 +6,5 @@ https://blacklivesmatter.shinyapps.io/blackownedla/
 
 Made using leaflet and shiny.
 
+Mobile friendly.
+
